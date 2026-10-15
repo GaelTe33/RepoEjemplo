@@ -1,5 +1,3 @@
-# RepoEjemplo
-Primeros pasos en Git
 # Aprendiendo Markdown
 
 Mis primeros pasos en **Markdown**, que es un *formato* de ***marcado de archivo de texto***.
